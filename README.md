@@ -1,0 +1,3 @@
+# FinFraudGuard
+
+FinFraudGuard is an AI-driven solution designed to spot suspicious credit-card transactions in real time and alert your security team the moment anomalies appear. By learning patterns of genuine and fraudulent behavior from historical data, it acts as an intelligent “shield,” reducing losses, cutting down manual reviews and boosting customer trust through industry-leading protection. Easy REST integration means you’ll be up and running in hours, not weeks.
